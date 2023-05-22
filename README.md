@@ -190,3 +190,5 @@ https://www.stg.shiftleft.io/apps/HSLCS?organizationId=9494677f-8bdf-460f-afff-7
 ```
 
 ![Screenshot](https://github.com/ShiftLeftSecurity/testdata/blob/master/csharp/vulnerable_asp_net_core/img/hsl.png "Dashboard Results")
+
+
